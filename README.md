@@ -1,5 +1,5 @@
 # ecommerce-rfm-analysis
-This is my first data analysis project.Thanks to the dataset provider Ayush Shrivastva for publicly sharing this data on Kaggle.
+This is my first data analysis project. Thanks to the dataset provider Ayush Shrivastva for publicly sharing this data on Kaggle.
 
 # 电商客户价值分析（RFM 模型）
 
