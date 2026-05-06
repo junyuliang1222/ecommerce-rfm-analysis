@@ -89,5 +89,5 @@ This is my first data analysis project. Thanks to the dataset provider Ayush Shr
 1. 从 Kaggle 下载数据集
 2. 安装依赖：`pip install pandas matplotlib seaborn jupyter`
 3. 启动 Jupyter Notebook：`jupyter notebook`
-4. 打开 `rfm_analysis.ipynb`，按顺序运行单元格
+4. 打开 `ecommerce-rfm-analysis`，按顺序运行单元格
 
