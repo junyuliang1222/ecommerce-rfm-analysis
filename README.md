@@ -9,7 +9,7 @@ This is my first data analysis project. Thanks to the dataset provider Ayush Shr
 
 ## 数据集
 
-- **来源**：(https://www.kaggle.com/datasets/ayushshrivastva13/e-commerce-customer-transactions-dataset?select=olist_order_payments_dataset.csv)  （Kaggle）
+- **来源**：(https://www.kaggle.com/datasets/ayushshrivastva13/e-commerce-customer-transactions-dataset)  （Kaggle）
 - **核心表**：订单表（orders）、订单商品表（order_items）、客户表（customers）、产品表（products）
 
 ## 分析方法
